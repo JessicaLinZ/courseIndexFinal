@@ -149,7 +149,7 @@ body {
 }
 
 .title:hover{
-  box-shadow: inset -1300px 0px 0 0 white;
+  box-shadow: inset -1400px 0px 0 0 white;
   text-shadow: none;
   color: rgb(0, 0, 168);
 }
